@@ -1,6 +1,7 @@
 //6_4 Student클래스에 다음과 같이 정의된 두 개의 메서드
 // getTotatl()과 getAverage()를 추가하시오.
 
+
 class Ch6_3to5
 {
     public static void main(String args[])
